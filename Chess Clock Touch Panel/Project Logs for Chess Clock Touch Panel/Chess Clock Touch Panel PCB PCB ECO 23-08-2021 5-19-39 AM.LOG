@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=PAD1 Pin=U1-2
+Added Net: Name=PAD1
+Added Pin To Net: NetName=PAD2 Pin=U1-1
+Added Net: Name=PAD2
+Added Pin To Net: NetName=PAD3 Pin=U1-14
+Added Net: Name=PAD3
+Added Pin To Net: NetName=PAD4 Pin=U1-13
+Added Net: Name=PAD4
+Added Pin To Net: NetName=PAD5 Pin=U1-11
+Added Net: Name=PAD5

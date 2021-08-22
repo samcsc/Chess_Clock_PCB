@@ -1,0 +1,31 @@
+Added Component: Designator=SW1(TACTILE_SWITCH_12x12x4.3)
+Add component (AddParameter): Name = "Categories"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UK-B0262-G4.3-160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 12x12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(TACTILE_SWITCH_12x12x4.3)
+Add component (AddParameter): Name = "Categories"; Value = "Tactile Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UK-B0262-G4.3-160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 12x12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=SW_L Pin=SW1-3
+Added Pin To Net: NetName=SW_L Pin=SW1-4
+Added Net: Name=SW_L
+Added Pin To Net: NetName=SW_R Pin=SW2-1
+Added Pin To Net: NetName=SW_R Pin=SW2-2
+Added Net: Name=SW_R

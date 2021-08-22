@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Chess Clock Front Display PCB.PcbDoc]
+   Generated File[Chess Clock Front Display PCB.GTO]
+   Generated File[Chess Clock Front Display PCB.GTP]
+   Generated File[Chess Clock Front Display PCB.GTS]
+   Generated File[Chess Clock Front Display PCB.GTL]
+   Generated File[Chess Clock Front Display PCB.GBL]
+   Generated File[Chess Clock Front Display PCB.GBS]
+   Generated File[Chess Clock Front Display PCB.GBP]
+   Generated File[Chess Clock Front Display PCB.GBO]
+   Generated File[Chess Clock Front Display PCB.GM1]
+   Generated File[Chess Clock Front Display PCB.RUL]
+   Generated File[Chess Clock Front Display PCB.EXTREP]
+   Generated File[Chess Clock Front Display PCB.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 12:09:24 AM On 23/07/2021
